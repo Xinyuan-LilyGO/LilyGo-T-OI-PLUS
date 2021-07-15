@@ -1,0 +1,6 @@
+{
+    "port": "COM504",
+    "configuration": "PartitionScheme=default,CPUFreq=160,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+    "board": "espressif:esp32:esp32c3",
+    "sketch": "example\\test\\test.ino"
+}

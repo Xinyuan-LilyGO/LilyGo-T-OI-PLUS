@@ -14,10 +14,19 @@
 #ifdef __AVR__
  #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
 #endif
+//set pin
+#define D1   19
+#define D2   18
+#define D3   9
+#define D4   8
+#define D5   5
+#define D6   6
+#define D7   7
+#define D8   10
 
-// Which pin on the Arduino is connected to the NeoPixels?
-// On a Trinket or Gemma we suggest changing this to 1:
-#define LED_PIN   18
+
+//D1 indicates that the dial switch 1 dials down to enable RGB .D2表示2。 D2 is 2.And so on....
+#define LED_PIN   D1
 
 // How many NeoPixels are attached to the Arduino?
 #define LED_COUNT 7
@@ -47,6 +56,8 @@ void setup() {
   strip.begin();           // INITIALIZE NeoPixel strip object (REQUIRED)
   strip.show();            // Turn OFF all pixels ASAP
   strip.setBrightness(50); // Set BRIGHTNESS to about 1/5 (max = 255)
+
+
 }
 
 
