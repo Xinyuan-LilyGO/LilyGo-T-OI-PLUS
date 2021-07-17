@@ -13,12 +13,9 @@
 
 <h3 align = "left">Product 📷:</h3>
 
-|                             Product                             |                            Product  Link                            |
-| :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|                            T-OI-PLUS                            | [AliExpress](https://www.aliexpress.com/item/1005002991400957.html) |
-| [Amazon](https://www.amazon.com/dp/B099MJHLPM?ref=myi_title_dp) |
-
-
+|  Product  |                                                            Product  Link                                                            |
+| :-------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| T-OI-PLUS | [AliExpress](https://www.aliexpress.com/item/1005002991400957.html) [Amazon](https://www.amazon.com/dp/B099MJHLPM?ref=myi_title_dp) |
 
 ## Pinout
 ![](image/TOI_Plus.jpg)
