@@ -19,3 +19,7 @@
 
 ## Pinout
 ![](image/TOI_Plus.jpg)
+
+## known issues
+[Using IDF wifi needs to be put TX power is limited to 12, it will operate normally](https://github.com/espressif/esp-idf/issues/7082)
+
