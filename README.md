@@ -21,10 +21,9 @@
 | T-OI-PLUS | [AliExpress](https://www.aliexpress.com/item/1005003348936965.html) |
 
 ## Pinout
-New version
 
 ![](image/new_TOI_Plus.png)
 
-![](image/TOI_Plus.jpg)
+
 
 
