@@ -2,6 +2,7 @@
 
 ## **English | [中文](./README_CN.MD)**
 
+New version
 **The new version has fixed the glitch that caused crystal burrs to start wifi and ble reset**
 
 <h3 align = "left">Quick start:</h3>
@@ -21,6 +22,7 @@
 
 ## Pinout
 New version
+
 ![](image/new_TOI_Plus.png)
 
 ![](image/TOI_Plus.jpg)
