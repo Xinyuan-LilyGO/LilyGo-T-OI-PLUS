@@ -2,6 +2,8 @@
 
 ## **English | [中文](./README_CN.MD)**
 
+**新版本已修复晶振毛刺导致启动wifi和ble复位的问题**
+
 <h3 align = "left">快速开始:</h3>
 
 1. 安装1.8以上的[Arduino IDE](http://www.arduino.cc/en/main/software).
