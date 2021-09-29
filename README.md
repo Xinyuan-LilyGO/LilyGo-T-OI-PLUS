@@ -2,7 +2,7 @@
 
 ## **English | [中文](./README_CN.MD)**
 
-## New version
+<h3 align = "left">New version:</h3> 
 **The new version has fixed the glitch that caused crystal burrs to start wifi and ble reset**
 
 <h3 align = "left">Quick start:</h3>
@@ -27,6 +27,4 @@ New version
 
 ![](image/TOI_Plus.jpg)
 
-## known issues
-[Using IDF wifi needs to be put TX power is limited to 12, it will operate normally](https://github.com/espressif/esp-idf/issues/7082)
 

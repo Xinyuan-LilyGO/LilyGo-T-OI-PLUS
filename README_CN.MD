@@ -2,6 +2,7 @@
 
 ## **English | [中文](./README_CN.MD)**
 
+<h3 align = "left">新版本</h3> 
 **新版本已修复晶振毛刺导致启动wifi和ble复位的问题**
 
 <h3 align = "left">快速开始:</h3>
