@@ -19,6 +19,7 @@
 **USE Micropython**
 
 [Download and upload the firmware](https://micropython.org/download/esp32c3/)
+
 Note that the firmware upload address is 0x0, not 0x1000.
 
 
